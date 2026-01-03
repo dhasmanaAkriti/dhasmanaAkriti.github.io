@@ -24,10 +24,10 @@ repository               : "dhasmanaAkriti/akritidhasmana.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Akriti Dhasmana"
   pronouns         : # example: "she/her"  
   bio              : "MSCSE Student"
-  location         : "Earth"
+  location         : "South Bend, IN"
   employer         : "University of Notre Dame"
   uri              : # URL
   email            : "adhasman@nd.edu" 
@@ -35,12 +35,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/akriti-dhasmana-47b0981a7/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
