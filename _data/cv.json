@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Akriti Dhasmana",
+    "email": "Akriti.Dhasmana@colorado.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://dhasmanaakriti.github.io/",
+    "summary": "PhD Student at CU Boulder",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Boulder",
       "countryCode": "US",
-      "region": ""
+      "region": "Colorado"
     },
     "profiles": [
       {
@@ -25,7 +25,7 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
+        "username": "",
         "url": "https://github.com/academicpages"
       }
     ]
