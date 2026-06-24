@@ -17,22 +17,20 @@ Education
 
 Work experience
 ======
-* Teaching Assistant (2025-2026): Data Structures, Discrete Mathematics, University of Notre Dame
-  * Graded assignments and clarified complex concepts to strengthen students’ understanding and overall performance.
-  * Support
-  * Supervisor: Dr. Taeho Jung (Discrete Math), Dr. Jay Brockman (Data Structures)
-
 * Data Engineer (2022-2025): Chartbeat 
   * Implemented a recommendations engine geared towards helping publication platforms increase their readership.
   * Developed, maintained, and monitored the web-worker-queue architecture for up to a billion API requests at a time.
   * Designed and established a third-party integration with Google Search Console to fetch Search engine optimization metrics for Chartbeat customers.
-  * Deployed applications in Python, C++, Java, and Lua to be hosted on Kubernetes that interfaced with databases on RedShift, Postgres, and Snowflake. Established metrics for measuring system performance and monitored backend services using Grafana and TSDB. 
+  * Deployed applications in Python, C++, Java, and Lua to be hosted on Kubernetes that interfaced with databases on RedShift, Postgres, and Snowflake. Established metrics for measuring system performance and monitored backend services using Grafana and TSDB.
+  * Supervisor: David Labarbera
 * Summer Research Intern: International Business Machines (IBM)
   * Worked under the mentorship of Dr. Wendy Cornell, IBM Research Strategy Lead for Drug Discovery, to run a comprehensive literature analysis of drug discovery efforts related to COVID-19 using text mining and language processing techniques on arXiv, ChemRxiv, bioRxiv, PubChem, and ChEMBL. 
-  * I also attended regular meetings with the global community of interns and participated in knowledge enrichment sessions led by engineers at IBM. 
+  * I also attended regular meetings with the global community of interns and participated in knowledge enrichment sessions led by engineers at IBM.
+  * Supervisor: Dr. Wendy Cornell
 * Summer Research Assistant: Union College
   * Assisted Dr. Matt Anderson in his research to find larger Uniquely Solvable Puzzles to prove the existence of a faster method for matrix multiplication.  
-  * Read and implemented a data structure based on Dr. S Minato's paper on Permutation Decision Diagrams to store and carry out mathematical operations on large permutations to generate Uniquely Solvable Puzzles. 
+  * Read and implemented a data structure based on Dr. S Minato's paper on Permutation Decision Diagrams to store and carry out mathematical operations on large permutations to generate Uniquely Solvable Puzzles.
+  * Supervisor: Dr. Matt Anderson
   
 Skills
 ======
@@ -53,10 +51,16 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ * Teaching Assistant (2025-2026): Data Structures, Discrete Mathematics, University of Notre Dame
+  * Graded assignments and clarified complex concepts to strengthen students’ understanding and overall performance.
+  * Conducted oral exams and held regular office hours for students throughout the course.
+  * Supervisor: Dr. Taeho Jung (Discrete Math), Dr. Jay Brockman (Data Structures)
+
 Service and leadership
 ======
-*
+* Student Mentor (2025-2026): Association for Women in Science, University of Notre Dame
+* Committee Member (2023-2025): Chartbeat Diversity, Equity and Inclusion
+* President (2019-2022): Union College Chapter of Association for Computer Machinery’s Council on Women
+* Editor-in-Chief (2020-2021): Concordiensis, Union College's student-run newspaper
+* Orientation Advisor (2022-24): Union College
+* International Students’ Orientation Leader (2021): Union College
