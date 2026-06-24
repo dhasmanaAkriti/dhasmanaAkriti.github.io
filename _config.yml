@@ -23,14 +23,14 @@ repository               : "dhasmanaAkriti/akritidhasmana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "akriti.jpg"
   name             : "Akriti Dhasmana"
-  pronouns         : # example: "she/her"  
-  bio              : "MSCSE Student"
-  location         : "South Bend, IN"
-  employer         : "University of Notre Dame"
+  pronouns         : "she/her"  
+  bio              : "PhD Student"
+  location         : "Boulder, Colorado"
+  employer         : "University of Colorado - Boulder"
   uri              : # URL
-  email            : "adhasman@nd.edu" 
+  email            : "Akriti.Dhasmana@colorado.edu" 
 
   # Academic websites
   academia         : # URL
