@@ -7,7 +7,7 @@
     "summary": "PhD Student at CU Boulder",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "80302",
       "city": "Boulder",
       "countryCode": "US",
       "region": "Colorado"
@@ -16,12 +16,12 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&user=YjTE5NcAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0003-3205-6308"
       },
       {
         "network": "GitHub",
