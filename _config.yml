@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : https://scholar.google.com/citations?user=2GZBKlUAAAAJ&hl=en
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : https://orcid.org/0009-0003-3205-6308
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
