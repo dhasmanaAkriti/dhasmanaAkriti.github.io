@@ -19,6 +19,10 @@ My current research interests lie in cultural analytics, AI-assisted fiction wri
 
 <ul class="news-list">
   <li>
+    <time datetime="2026-08-14">Aug 2026</time>
+    <span>Started as a PhD student at CU Boulder </span>
+  </li>
+  <li>
     <time datetime="2026-03-29">Mar 2026</time>
     <span> Presented our paper, <a href="/publication/2026-03-29-dialect-matters-cross-lingual-asr-transfer-for-low-resource-indic-language-varieties-1/">“Dialect Matters: Cross-Lingual ASR Transfer for Low-Resource Indic Language Varieties”</a>, virtually at VarDial 2026.</span>
   </li>
