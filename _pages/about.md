@@ -19,8 +19,20 @@ My current research interests lie in cultural analytics, AI-assisted fiction wri
 
 <ul class="news-list">
   <li>
+    <time datetime="2026-10-03">Oct 2026</time>
+    <span>Will be attending Text As Data (TADA) at UC Berkeley! </span>
+  </li>
+  <li>
+    <time datetime="2026-09-18">Sept 2026</time>
+    <span>Recieved the Awtar and Teji Singh Fellowship! </span>
+  </li>
+  <li>
     <time datetime="2026-08-14">Aug 2026</time>
-    <span>Started as a PhD student at CU Boulder </span>
+    <span>Started as a PhD student at CU Boulder in the CLS and LECS lab! </span>
+  </li>
+  <li>
+    <time datetime="2026-03-29">May 2026</time>
+    <span> Graduated with my Master's in Computer Science and Engineering! </span>
   </li>
   <li>
     <time datetime="2026-03-29">Mar 2026</time>
